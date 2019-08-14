@@ -1,0 +1,24 @@
+# Items
+item.alchemical_flask.name=Alchemical Flask
+item.alchemicoal.name=Alchemicoal
+item.alchemist_sachel.name=Alchemist Sachel
+item.alchemist_wrench.name=Alchemist Wrench
+item.bacon_strip.name=Bacon Strip
+item.bomb.name=Bomb
+item.clipboard.name=Clipboard
+item.cooked_bacon_strip.name=Cooked Bacon Strip
+item.fried_egg.name=Fried Egg
+item.magnet_glove.name=Magnet Glove
+item.research_vellum.name=Research Vellum
+item.super_claw.name=Digging Mitts
+item.super_leaf.name=Super Leaf
+item.tool_vellum.name=Tool Vellum
+item.watering_can.name=Watering Can
+
+# Blocks
+tile.alchemical_furnace.name=Alchemical Furnace
+tile.atelier.name=Atelier
+tile.storage_unit.name=Storage Unit
+
+# Creative tabs
+itemGroup.ftalchemist=FullThrottle Alchemist
